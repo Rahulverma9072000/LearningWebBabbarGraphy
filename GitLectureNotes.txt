@@ -1,0 +1,30 @@
+//Git is version control system that watches all changes we do in Repositories 
+//GitHub is a website that host Git and its functionalities
+//Git is Open Source Distributed Version Control System 
+
+File Structure is Inverted Tree like Structure 
+If we initialise git in a Folder "DummyDot" on Desktop : 
+1) .  : Current Directory (DummyDot)
+2) .. : Parent Directory (DeskTop)
+3) .git  : Git File it's actually hidden 
+
+# . and .. is present in every directory which means . : current directory and .. : Parent Directory
+
+//Create A Git Repo 
+Git init : Apni Directory ko Git initialise kr skte ho 
+git clone : Kisi aur ki git repo ko clone krna hai
+
+//LifeCycle of a Change 
+//Steps of How Everything Works here :
+Working Directory : Temporary Changes 
+Staging Index : About to Commit 
+Repository : Commited 
+
+//Review a Repo History 
+git log : Shows all the commit history with latest commit at the top 
+git log -2 : :Latest 2 commit 
+git log -3 : Lastest 3 commit
+git log -p : Shows commit with the actual changes done 
+git log --oneline : Shows commit in a line to see . It will show all commit id and message  
+git log --stat : It shows commit with all changes done in file . 
+git show [commit id] : Particular Commit id mein jo jo change hue hai wo show karta hai
