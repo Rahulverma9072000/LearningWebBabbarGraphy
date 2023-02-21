@@ -1,0 +1,35 @@
+BEst Website To Read Documentation and help -> mdnDocs
+HTML Stands for ?
+HyperText MarkUp Language
+HTML is not Programming Language
+HTML is MarkUp Language 
+MarkUp : Annotation/Tag used to markup content.
+HyperText : Bohot Saare WebPage aapas m linked hai . One WebPage is linked to Another Page.
+HTML : Basic Building Blocks / Create a Skeleton / Description of WebPage
+
+HTML+CSS+JS -> Full Stack Application
+
+HTML Doc -> Browser Render -> WebPage 
+
+Tags :  Something/Keyword that tells the browser how to render different Elements
+Attributes : All HTML Elements can have Attributes. Property of HTML Tag
+They Provide Additional info to HTML Tag.
+Tag 
+1) Opening Tag 
+2) Closing Tag 
+3) Content 
+Combination of Opening Tag, Closing Tag and Content is known as Element.
+
+HTML is not Case-Sensitive 
+HTML doc can be opened in 2 ways : TextEditor , By Browser 
+Tags -> 100+ Html Tags Exist 
+I did not need to learn every html tag 
+HTML Text Elements : Block Elements and Inline Element
+Block Element : <p> </p> , <h1> </h1> , <ul> </ul> , <article></article> , <section></section>
+Inline Element : <em></em> , <strong></strong> , <a></a>
+
+Empty Tag <-> Self Closing tag . Ex : <br> , <img> , <input>
+
+// HTML LIST 
+
+List -> Ordered List , Unordered List , Description List 
